@@ -1,3 +1,5 @@
+<img src="./github-profile-banner.png" width="100%" alt="Prince Kumar Dubey - Data Engineering">
+
 # Prince Kumar Dubey
 
 ### Data Engineer | Snowflake | SQL | Python | AWS
